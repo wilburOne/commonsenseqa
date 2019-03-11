@@ -1,0 +1,27 @@
+# command line interfaces
+click
+
+# interactive programming
+ipython
+jupyter
+
+# data science and numerical computing
+numpy
+scipy
+scikit-learn
+
+# natural language processing
+spacy
+nltk
+editdistance
+
+# Metric
+rouge
+
+matplotlib==2.2.3
+
+gensim
+
+flask
+pandas
+pytorch-pretrained-bert==0.6.0
